@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/Arhidimon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arhidimon&count_private=true&show_icons=true&theme=shades-of-purple&hide=stars&line_height=32"/>
+</a>
+<a href="https://github.com/Arhidimon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhidimon&theme=shades-of-purple&langs_count=3&hide=PHP,Objective-C,Roff,HTML,Makefile&card_width=300" />
+</a>
 
 <!--
 **Arhidimon/Arhidimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
